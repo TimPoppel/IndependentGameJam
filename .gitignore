@@ -73,3 +73,5 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 IndependentGameJam/Saved/Config/Windows/SourceControlSettings.ini
+IndependentGameJam/Saved/Config/CrashReportClient/UE4CC-Windows-1A8DFB244F2455EAAF6C48B2C50688DE/CrashReportClient.ini
+IndependentGameJam/Saved/Logs/IndependentGameJam-backup-2021.11.16-16.00.33.log
